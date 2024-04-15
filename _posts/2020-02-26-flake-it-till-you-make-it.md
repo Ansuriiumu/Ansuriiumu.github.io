@@ -5,9 +5,12 @@ subtitle: Diverse Hats in Cybersecurity: Exploring the Motivations and Actions o
 cover-img: "/assets/img/1662637238702.png"
 thumbnail-img: "/assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png"
 share-img: "/assets/img/1662637238702.png"
-tags: [learning, test]
+tags: 
+  - learning
+  - test
 author: Titouan PERIN
 ---
+
 
 
 White Hat Hackers (Ethical Hackers):
