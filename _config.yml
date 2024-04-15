@@ -150,8 +150,16 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/six-different-types-of-hackers-1024x294.png"
-footer-img: "/assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png"
+navbar-img:
+  src: "/assets/img/AdobeStock_141837561-copie.jpg"
+  alt: "Navbar Image"
+  style: "max-width: 100%; height: auto;"
+
+footer-img:
+  src: "/assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png"
+  alt: "Footer Image"
+  style: "max-width: 100%; height: auto;"
+
 #page-img: "/assets/img/Pentest-infographie.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
