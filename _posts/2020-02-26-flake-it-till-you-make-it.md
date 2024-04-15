@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Understanding the Different Types of Hackers:
+title: Understanding the Different Types of Hackers
 subtitle: Diverse Hats in Cybersecurity: Exploring the Motivations and Actions of Hackers
-cover-img: /assets/img/1662637238702.png
-thumbnail-img: /assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png
-share-img: /assets/img/1662637238702.png
+cover-img: "/assets/img/1662637238702.png"
+thumbnail-img: "/assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png"
+share-img: "/assets/img/1662637238702.png"
 tags: [learning, test]
 author: Titouan PERIN
 ---
+
 
 White Hat Hackers (Ethical Hackers):
 These are the good guys of the cybersecurity world. White hat hackers use their skills for ethical purposes, such as testing the security of systems, identifying vulnerabilities, and helping organizations improve their defenses. They often work as security professionals, penetration testers, or cybersecurity consultants, aiming to enhance cybersecurity and protect against malicious attacks.
