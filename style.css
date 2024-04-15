@@ -1,0 +1,11 @@
+/* Pour la barre de navigation */
+.navbar {
+    background-size: cover;
+    background-image: url('{{ site.navbar-img }}');
+}
+
+/* Pour le pied de page */
+.footer {
+    background-size: cover;
+    background-image: url('{{ site.footer-img }}');
+}
