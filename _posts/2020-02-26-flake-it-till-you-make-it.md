@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Understanding the Different Types of Hackers
+subtitle: Exploring the Motivations and Actions of Hackers
 cover-img: /assets/img/1662637238702.png
 thumbnail-img: /assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png
 share-img: /assets/img/1662637238702.png
-tags: [books, test]
+tags: [learning, test]
 author: Sharon Smith and Barry Simpson
 ---
 
