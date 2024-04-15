@@ -22,9 +22,10 @@ author: TitouanP.
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - ANSSI: "https://cyber.gouv.fr/"
+    - Usine digitale: "https://www.usine-digitale.fr/cybersecurite/"
+    - Zataz: "https://www.zataz.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -135,7 +136,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#6BE3A7"
-navbar-text-col: "#6BE3A7"
+navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -149,9 +150,9 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/6-types-of-hackers.jpg"
+navbar-img: "/assets/img/six-different-types-of-hackers-1024x294.png"
 footer-img: "/assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png"
-page-img: "/assets/img/Pentest-infographie.jpg"
+#page-img: "/assets/img/Pentest-infographie.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#6BE3A7"
