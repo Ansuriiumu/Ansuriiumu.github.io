@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Understanding the Different Types of Hackers
-subtitle: Diverse Hats in Cybersecurity: Exploring the Motivations and Actions of Hackers
-cover-img: "/assets/img/1662637238702.png"
-thumbnail-img: "/assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png"
-share-img: "/assets/img/1662637238702.png"
-author: Titouan PERIN
+title: Flake it till you make it
+subtitle: Excerpt from Soulshaping by Jeff Brown
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
+author: Sharon Smith and Barry Simpson
 ---
 
 
