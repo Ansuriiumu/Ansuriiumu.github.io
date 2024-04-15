@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Cybersecurity
 
 # Your name to show in the footer
-author: Some Person
+author: TitouanP.
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/fifi_pilote_A_hacker_who_is_in_the_desert_hacking_into_computer_561c40bf-fc95-49d8-8a1b-08210d86dcb9.webp"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,14 +50,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "titouanperin@hotmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: titouanperin
+  github: titouanperin
+  twitter: titouanperin
+  patreon: titouanperin
+  youtube: "@titouanperin"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -66,7 +66,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +33685238047
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -134,8 +134,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#6BE3A7"
+navbar-text-col: "#6BE3A7"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -149,19 +149,19 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/6-types-of-hackers.jpg"
+footer-img: "/assets/img/5354_9014__w800_00_titre_chapeau_noir_chapeau_blanc-copie.png"
+page-img: "/assets/img/Pentest-infographie.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+#mobile-theme-col: "#6BE3A7"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
 #  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
+#site-js:²
 #  - "/assets/js/custom-script.js"
 
 #################################
@@ -258,7 +258,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -300,4 +300,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
